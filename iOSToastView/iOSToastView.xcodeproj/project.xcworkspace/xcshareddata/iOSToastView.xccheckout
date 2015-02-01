@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48E4B266-18F5-4DE1-838D-A1B17E2A097C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSToastView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08D570D2241A20373088E1C5D439DFDDB64CE559</key>
+		<string>https://github.com/AdityaDeshmane/iOSToastView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSToastView/iOSToastView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08D570D2241A20373088E1C5D439DFDDB64CE559</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AdityaDeshmane/iOSToastView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08D570D2241A20373088E1C5D439DFDDB64CE559</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08D570D2241A20373088E1C5D439DFDDB64CE559</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSToastView_Repos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
