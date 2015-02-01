@@ -1,5 +1,5 @@
 # iOSToastView
-Android like toast popup with lot of customizable parameters
+Android like toast popup with many of customizable parameters
 
 
 ![      ](\1.png "") 
@@ -54,6 +54,8 @@ Android like toast popup with lot of customizable parameters
 'ADToastView.m'
 ```
 
+---
+---
 
 
 ### How to use ?
