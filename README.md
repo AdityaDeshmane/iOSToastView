@@ -60,7 +60,7 @@ Android like toast popup with many customizable parameters
 
 ### How to use ?
 
-#### Sample Codes :
+#### Sample Code :
 
 ```obj-c
 
