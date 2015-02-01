@@ -2,9 +2,6 @@
 Android like toast popup with lot of customizable parameters
 
 
-Circular style menu
-
-
 ![      ](\1.png "") 
 
 
@@ -41,6 +38,7 @@ Circular style menu
 
 //Display time
 #define kDisplayTime 1.5
+```
 
 <em>This UI control can be used on all iPhones, iPods & iPads running iOS 5.0 and above.</em>
 
@@ -77,7 +75,7 @@ Circular style menu
 //3. SHOWING TOAST
 
     [toastView show];
-
+```
 ---
 ---
 
