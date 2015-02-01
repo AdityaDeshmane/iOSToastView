@@ -42,9 +42,10 @@ Android like toast popup with lot of customizable parameters
 
 <em>This UI control can be used on all iPhones, iPods & iPads running iOS 5.0 and above.</em>
 
+---
+---
 
 ### Adding to your project
-
 
 * Add Follwing two files to your project
 
@@ -55,9 +56,9 @@ Android like toast popup with lot of customizable parameters
 
 
 
-### How to use
+### How to use ?
 
-#### Sample Codes
+#### Sample Codes :
 
 ```obj-c
 
@@ -79,14 +80,14 @@ Android like toast popup with lot of customizable parameters
 ---
 ---
 
-### Requirements
+### Requirements :
 
 ADToastView works on iOS 5.0 & above versions and is compatible with ARC projects. There is no need of other frameworks/libraries
 
 ---
 ---
 
-### Other details
+### Other details :
 
 * XCode : Developed using 6.0
 * Base sdk used while development : 8.1
@@ -95,7 +96,7 @@ ADToastView works on iOS 5.0 & above versions and is compatible with ARC project
 ---
 ---
 
-### TODO
+### TODOs :
 
 * Component polishing
 
