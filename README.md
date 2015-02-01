@@ -42,11 +42,8 @@ Circular style menu
 //Display time
 #define kDisplayTime 1.5
 
-
 <em>This UI control can be used on all iPhones, iPods & iPads running iOS 5.0 and above.</em>
 
----
----
 
 ### Adding to your project
 
@@ -58,8 +55,7 @@ Circular style menu
 'ADToastView.m'
 ```
 
----
----
+
 
 ### How to use
 
