@@ -143,11 +143,13 @@
 
 -(NSInteger)getHeightOfMessage
 {
-    NSInteger width = kToastWidth-kToastLeadingTrailingTextMargin*2;
+    NSInteger width = kToastWidth- (kToastLeadingTrailingTextMargin*2);
+    NSInteger height = self.frame.size.height-kToastTopBottomTextMargin*2;
     UIFont* font = [UIFont systemFontOfSize:kDefaultMessageFontSize];
     
-    //TODO: Remove deprecatd method sizeWithFont
-    return [_strMessage sizeWithFont:font constrainedToSize:CGSizeMake(width, self.frame.size.height-kToastTopBottomTextMargin) lineBreakMode:NSLineBreakByWordWrapping].height;
+    CGRect rect = [_strMessage boundingRectWithSize:CGSizeMake(width, height) options:(NSStringDrawingUsesLineFragmentOrigin|NSStringDrawingUsesFontLeading) attributes:@{NSFontAttributeName: font} context:nil];
+    
+    return ceilf(rect.size.height);
 }
 
 -(CGRect)getRectOfToast
