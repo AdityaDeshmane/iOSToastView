@@ -13,7 +13,7 @@ Android like toast popup with many customizable parameters
 
 * Small code 
 * Easy to modify 
-* Many customizable parameter to meet whatever your requiment are
+* Many customizable parameter to meet whatever your requiments are
 
 ```obj-c
 //Transparancy
