@@ -2,13 +2,13 @@
 Android like toast popup with many customizable parameters
 
 
-![      ](\1.png "") 
+![      ](/1.png "") 
 
 
-![      ](\2.png "") 
+![      ](/2.png "") 
 
 
-![      ](\3.png "") 
+![      ](/3.png "") 
 
 
 * Small code 
